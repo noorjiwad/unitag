@@ -1,0 +1,1660 @@
+{
+  "CCAS 0920": {
+    "Department": "Columbian College",
+    "CRN": "30742",
+    "Subject": "CCAS",
+    "Course Number": "0920",
+    "Course Name": "Continuing Research - Master's",
+    "Tags": [
+      "Columbian College"
+    ]
+  },
+  "CCAS 0940": {
+    "Department": "Columbian College",
+    "CRN": "31705",
+    "Subject": "CCAS",
+    "Course Number": "0940",
+    "Course Name": "Continuing Research - Doctoral",
+    "Tags": [
+      "Columbian College"
+    ]
+  },
+  "CCAS 1001": {
+    "Department": "Columbian College",
+    "CRN": "34426",
+    "Subject": "CCAS",
+    "Course Number": "1001",
+    "Course Name": "First-Year Experience",
+    "Tags": [
+      "Columbian College"
+    ]
+  },
+  "CLAS 2105": {
+    "Department": "Classical Studies",
+    "CRN": "33307",
+    "Subject": "CLAS",
+    "Course Number": "2105",
+    "Course Name": "Politics&Power:Roman Republic",
+    "Tags": [
+      "Classical Studies"
+    ]
+  },
+  "HIST 2001": {
+    "Department": "Classical Studies",
+    "CRN": "35676",
+    "Subject": "HIST",
+    "Course Number": "2001",
+    "Course Name": "Politics&Power:Roman Republic",
+    "Tags": [
+      "Classical Studies"
+    ]
+  },
+  "CLAS 2106": {
+    "Department": "Classical Studies",
+    "CRN": "37072",
+    "Subject": "CLAS",
+    "Course Number": "2106",
+    "Course Name": "Mythology of the Classical World",
+    "Tags": [
+      "Classical Studies"
+    ]
+  },
+  "CLAS 2112": {
+    "Department": "Classical Studies",
+    "CRN": "31753",
+    "Subject": "CLAS",
+    "Course Number": "2112",
+    "Course Name": "History of Ancient Greece",
+    "Tags": [
+      "Classical Studies"
+    ]
+  },
+  "HIST 2112": {
+    "Department": "Classical Studies",
+    "CRN": "31752",
+    "Subject": "HIST",
+    "Course Number": "2112",
+    "Course Name": "History of Ancient Greece",
+    "Tags": [
+      "Classical Studies"
+    ]
+  },
+  "CPJ 2091": {
+    "Department": "Corcoran Photojournalism",
+    "CRN": "34142",
+    "Subject": "CPJ",
+    "Course Number": "2091",
+    "Course Name": "Photojournalism Studio Sequencing and Narrative Strategies",
+    "Tags": [
+      "Corcoran Photojournalism"
+    ]
+  },
+  "CPJ 3090": {
+    "Department": "Corcoran Photojournalism",
+    "CRN": "32091",
+    "Subject": "CPJ",
+    "Course Number": "3090",
+    "Course Name": "Photojournalism Studio Visual Reportage",
+    "Tags": [
+      "Corcoran Photojournalism"
+    ]
+  },
+  "CSA 3501": {
+    "Department": "Corcoran Photojournalism",
+    "CRN": "34490",
+    "Subject": "CSA",
+    "Course Number": "3501",
+    "Course Name": "Documentary Photography",
+    "Tags": [
+      "Corcoran Photojournalism"
+    ]
+  },
+  "CPJ 4085": {
+    "Department": "Corcoran Photojournalism",
+    "CRN": "36090",
+    "Subject": "CPJ",
+    "Course Number": "4085",
+    "Course Name": "Photojournalism Directed Study",
+    "Tags": [
+      "Corcoran Photojournalism"
+    ]
+  },
+  "CPJ 4090": {
+    "Department": "Corcoran Photojournalism",
+    "CRN": "32090",
+    "Subject": "CPJ",
+    "Course Number": "4090",
+    "Course Name": "Photojournalism Thesis I",
+    "Tags": [
+      "Corcoran Photojournalism"
+    ]
+  },
+  "CMUS 1063": {
+    "Department": "Corcoran Music",
+    "CRN": "35055",
+    "Subject": "CMUS",
+    "Course Number": "1063",
+    "Course Name": "Chamber Ensembles",
+    "Tags": [
+      "Corcoran Music"
+    ]
+  },
+  "CMUS 1071": {
+    "Department": "Corcoran Music",
+    "CRN": "35170",
+    "Subject": "CMUS",
+    "Course Number": "1071",
+    "Course Name": "Jam Session",
+    "Tags": [
+      "Corcoran Music"
+    ]
+  },
+  "PUBH 1102": {
+    "Department": "Public Health",
+    "CRN": "33196",
+    "Subject": "PUBH",
+    "Course Number": "1102",
+    "Course Name": "History of Public Health",
+    "Tags": [
+      "PublicHealth",
+      "History"
+    ]
+  },
+  "PORT 2010": {
+    "Department": "Portuguese",
+    "CRN": "33630",
+    "Subject": "PORT",
+    "Course Number": "2010",
+    "Course Name": "Accelerated Portuguese for Spanish Speakers",
+    "Tags": [
+      "Language",
+      "Portuguese"
+    ]
+  },
+  "PMGT 6401": {
+    "Department": "Political Management",
+    "CRN": "32035",
+    "Subject": "PMGT",
+    "Course Number": "6401",
+    "Course Name": "Fundamentals of Political Management",
+    "Tags": [
+      "PoliticalManagement",
+      "Leadership"
+    ]
+  },
+  "PMGT 6404": {
+    "Department": "Political Management",
+    "CRN": "36717",
+    "Subject": "PMGT",
+    "Course Number": "6404",
+    "Course Name": "Principled Political Leadership",
+    "Tags": [
+      "Leadership",
+      "PoliticalEthics"
+    ]
+  },
+  "PMGT 6456": {
+    "Department": "Political Management",
+    "CRN": "37713",
+    "Subject": "PMGT",
+    "Course Number": "6456",
+    "Course Name": "Speechcraft",
+    "Tags": [
+      "Communication",
+      "PublicSpeaking"
+    ]
+  },
+  "PMGT 6462": {
+    "Department": "Political Management",
+    "CRN": "37714",
+    "Subject": "PMGT",
+    "Course Number": "6462",
+    "Course Name": "Opposition Research",
+    "Tags": [
+      "PoliticalResearch",
+      "Campaigning"
+    ]
+  },
+  "PA 6102": {
+    "Department": "Physician Assistant",
+    "CRN": "32259",
+    "Subject": "PA",
+    "Course Number": "6102",
+    "Course Name": "Clinical Assessment II",
+    "Tags": [
+      "ClinicalSkills",
+      "Assessment"
+    ]
+  },
+  "PA 6105": {
+    "Department": "Physician Assistant",
+    "CRN": "32258",
+    "Subject": "PA",
+    "Course Number": "6105",
+    "Course Name": "Integration into Clinical Concepts II",
+    "Tags": [
+      "ClinicalIntegration",
+      "Concepts"
+    ]
+  },
+  "PA 6112": {
+    "Department": "Physician Assistant",
+    "CRN": "32309",
+    "Subject": "PA",
+    "Course Number": "6112",
+    "Course Name": "Clinical Medicine I",
+    "Tags": [
+      "ClinicalMedicine",
+      "PatientCare"
+    ]
+  },
+  "PA 6116": {
+    "Department": "Physician Assistant",
+    "CRN": "32257",
+    "Subject": "PA",
+    "Course Number": "6116",
+    "Course Name": "Clinical Skills I",
+    "Tags": [
+      "ClinicalSkills",
+      "HealthCare"
+    ]
+  },
+  "PA 6118": {
+    "Department": "Physician Assistant",
+    "CRN": "32310",
+    "Subject": "PA",
+    "Course Number": "6118",
+    "Course Name": "Health, Justice, and Society I",
+    "Tags": [
+      "HealthEquity",
+      "SocialJustice"
+    ]
+  },
+  "PT 8201": {
+    "Department": "Physical Therapy",
+    "CRN": "32275",
+    "Subject": "PT",
+    "Course Number": "8201",
+    "Course Name": "Functional Anatomy",
+    "Tags": [
+      "Anatomy",
+      "PhysicalTherapy"
+    ]
+  },
+  "PT 8208": {
+    "Department": "Physical Therapy",
+    "CRN": "32268",
+    "Subject": "PT",
+    "Course Number": "8208",
+    "Course Name": "Medical Imaging",
+    "Tags": [
+      "MedicalImaging",
+      "Diagnostics"
+    ]
+  },
+  "PT 8272": {
+    "Department": "Physical Therapy",
+    "CRN": "32274",
+    "Subject": "PT",
+    "Course Number": "8272",
+    "Course Name": "Research Seminar",
+    "Tags": [
+      "Research",
+      "Seminar"
+    ]
+  },
+  "PT 8311": {
+    "Department": "Physical Therapy",
+    "CRN": "32131",
+    "Subject": "PT",
+    "Course Number": "8311",
+    "Course Name": "Foundations of Examination",
+    "Tags": [
+      "Examination",
+      "Foundations"
+    ]
+  },
+  "PT 8312": {
+    "Department": "Physical Therapy",
+    "CRN": "32130",
+    "Subject": "PT",
+    "Course Number": "8312",
+    "Course Name": "Foundations of Interventions",
+    "Tags": [
+      "Interventions",
+      "Therapeutic"
+    ]
+  },
+  "CHIN 1001": {
+    "Department": "Chinese",
+    "CRN": "34422",
+    "Subject": "CHIN",
+    "Course Number": "1001",
+    "Course Name": "Beginning Chinese I",
+    "Tags": [
+      "Language",
+      "Chinese"
+    ]
+  },
+  "CHIN 2003": {
+    "Department": "Chinese",
+    "CRN": "32152",
+    "Subject": "CHIN",
+    "Course Number": "2003",
+    "Course Name": "Intermediate Chinese I",
+    "Tags": [
+      "Language",
+      "Chinese"
+    ]
+  },
+  "CHIN 3105": {
+    "Department": "Chinese",
+    "CRN": "31180",
+    "Subject": "CHIN",
+    "Course Number": "3105",
+    "Course Name": "Intermediate Chinese III",
+    "Tags": [
+      "Language",
+      "Chinese"
+    ]
+  },
+  "CHIN 3109": {
+    "Department": "Chinese",
+    "CRN": "30909",
+    "Subject": "CHIN",
+    "Course Number": "3109",
+    "Course Name": "Introduction to Classical Chinese",
+    "Tags": [
+      "Language",
+      "Chinese",
+      "Classical"
+    ]
+  },
+  "CHIN 6109": {
+    "Department": "Chinese",
+    "CRN": "32397",
+    "Subject": "CHIN",
+    "Course Number": "6109",
+    "Course Name": "Introduction to Classical Chinese I",
+    "Tags": [
+      "Language",
+      "Chinese",
+      "Classical"
+    ]
+  },
+  "SPED 0920": {
+    "Department": "Special Education",
+    "CRN": "30759",
+    "Subject": "SPED",
+    "Course Number": "0920",
+    "Course Name": "Continuing Research - Master's",
+    "Tags": [
+      "SpecialEducation",
+      "Research"
+    ]
+  },
+  "SPED 0940": {
+    "Department": "Special Education",
+    "CRN": "30854",
+    "Subject": "SPED",
+    "Course Number": "0940",
+    "Course Name": "Continuing Research - Doctoral",
+    "Tags": [
+      "SpecialEducation",
+      "Research"
+    ]
+  },
+  "SPED 6100": {
+    "Department": "Special Education",
+    "CRN": "37267",
+    "Subject": "SPED",
+    "Course Number": "6100",
+    "Course Name": "Intern in Early Childhood SPED",
+    "Tags": [
+      "SpecialEducation",
+      "Internship"
+    ]
+  },
+  "SPED 6993": {
+    "Department": "Special Education",
+    "CRN": "36565",
+    "Subject": "SPED",
+    "Course Number": "6993",
+    "Course Name": "Internship/Young Exc Children",
+    "Tags": [
+      "SpecialEducation",
+      "Internship"
+    ]
+  },
+  "SPED 6991": {
+    "Department": "Special Education",
+    "CRN": "36567",
+    "Subject": "SPED",
+    "Course Number": "6991",
+    "Course Name": "Int Tchg Child W/SED:Co-Teachr",
+    "Tags": [
+      "SpecialEducation",
+      "CoTeaching"
+    ]
+  },
+  "PHIL 1000": {
+    "Department": "Philosophy",
+    "CRN": "35296",
+    "Subject": "PHIL",
+    "Course Number": "1000",
+    "Course Name": "Evil",
+    "Tags": [
+      "Philosophy",
+      "Ethics"
+    ]
+  },
+  "PHIL 1051": {
+    "Department": "Philosophy",
+    "CRN": "33000",
+    "Subject": "PHIL",
+    "Course Number": "1051",
+    "Course Name": "Introduction to Philosophy",
+    "Tags": [
+      "Philosophy",
+      "Introduction"
+    ]
+  },
+  "PHIL 1062": {
+    "Department": "Philosophy",
+    "CRN": "32182",
+    "Subject": "PHIL",
+    "Course Number": "1062",
+    "Course Name": "Philosophy and Film",
+    "Tags": [
+      "Philosophy",
+      "Film"
+    ]
+  },
+  "PHIL 1153": {
+    "Department": "Philosophy",
+    "CRN": "32411",
+    "Subject": "PHIL",
+    "Course Number": "1153",
+    "Course Name": "The Meaning of Mind",
+    "Tags": [
+      "Philosophy",
+      "Mind"
+    ]
+  },
+  "PHIL 1193": {
+    "Department": "Philosophy",
+    "CRN": "31790",
+    "Subject": "PHIL",
+    "Course Number": "1193",
+    "Course Name": "Introduction to Existentialism",
+    "Tags": [
+      "Philosophy",
+      "Existentialism"
+    ]
+  },
+  "PSYC 1001": {
+    "Department": "Psychology",
+    "CRN": "30374",
+    "Subject": "PSYC",
+    "Course Number": "1001",
+    "Course Name": "General Psychology",
+    "Tags": [
+      "Psychology",
+      "General"
+    ]
+  },
+  "PSYC 2011": {
+    "Department": "Psychology",
+    "CRN": "30512",
+    "Subject": "PSYC",
+    "Course Number": "2011",
+    "Course Name": "Abnormal Psychology",
+    "Tags": [
+      "Psychology",
+      "Abnormal"
+    ]
+  },
+  "PSYC 2012": {
+    "Department": "Psychology",
+    "CRN": "32404",
+    "Subject": "PSYC",
+    "Course Number": "2012",
+    "Course Name": "Social Psychology",
+    "Tags": [
+      "Psychology",
+      "Social"
+    ]
+  },
+  "PSYC 2013": {
+    "Department": "Psychology",
+    "CRN": "30968",
+    "Subject": "PSYC",
+    "Course Number": "2013",
+    "Course Name": "Developmental Psychology",
+    "Tags": [
+      "Psychology",
+      "Developmental"
+    ]
+  },
+  "PSYC 2014": {
+    "Department": "Psychology",
+    "CRN": "31264",
+    "Subject": "PSYC",
+    "Course Number": "2014",
+    "Course Name": "Cognitive Psychology",
+    "Tags": [
+      "Psychology",
+      "Cognitive"
+    ]
+  },
+  "PATH 6295": {
+    "Department": "Pathology",
+    "CRN": "30281",
+    "Subject": "PATH",
+    "Course Number": "6295",
+    "Course Name": "Comparative Pathology",
+    "Tags": [
+      "Pathology",
+      "Comparative"
+    ]
+  },
+  "PHAR 6205": {
+    "Department": "Pharmacology",
+    "CRN": "30348",
+    "Subject": "PHAR",
+    "Course Number": "6205",
+    "Course Name": "Pharmacology",
+    "Tags": [
+      "Pharmacology",
+      "Drugs"
+    ]
+  },
+  "PHAR 6207": {
+    "Department": "Pharmacology",
+    "CRN": "31841",
+    "Subject": "PHAR",
+    "Course Number": "6207",
+    "Course Name": "Pharmacology I",
+    "Tags": [
+      "Pharmacology",
+      "Introduction"
+    ]
+  },
+  "PHAR 8214": {
+    "Department": "Pharmacology",
+    "CRN": "33360",
+    "Subject": "PHAR",
+    "Course Number": "8214",
+    "Course Name": "Physiology and Pharmacology Seminar",
+    "Tags": [
+      "Pharmacology",
+      "Seminar"
+    ]
+  },
+  "PHAR 8998": {
+    "Department": "Pharmacology",
+    "CRN": "33367",
+    "Subject": "PHAR",
+    "Course Number": "8998",
+    "Course Name": "Advanced Reading and Research",
+    "Tags": [
+      "Pharmacology",
+      "Research"
+    ]
+  },
+  "PHAR 8999": {
+    "Department": "Pharmacology",
+    "CRN": "33368",
+    "Subject": "PHAR",
+    "Course Number": "8999",
+    "Course Name": "Dissertation research",
+    "Tags": [
+      "Pharmacology",
+      "Dissertation"
+    ]
+  },
+  "PSTD 1010": {
+    "Department": "Peace Studies",
+    "CRN": "31077",
+    "Subject": "PSTD",
+    "Course Number": "1010",
+    "Course Name": "Introduction to Peace Studies and Conflict Resolution",
+    "Tags": [
+      "PeaceStudies",
+      "ConflictResolution"
+    ]
+  },
+  "PSTD 3190": {
+    "Department": "Peace Studies",
+    "CRN": "31859",
+    "Subject": "PSTD",
+    "Course Number": "3190",
+    "Course Name": "Capstone Seminar",
+    "Tags": [
+      "PeaceStudies",
+      "Capstone"
+    ]
+  },
+  "PPPA 2000": {
+    "Department": "Public Policy and Public Admin",
+    "CRN": "32720",
+    "Subject": "PPPA",
+    "Course Number": "2000",
+    "Course Name": "Justice and the Legal System I",
+    "Tags": [
+      "PublicPolicy",
+      "Legal"
+    ]
+  },
+  "PPPA 6000": {
+    "Department": "Public Policy and Public Admin",
+    "CRN": "31629",
+    "Subject": "PPPA",
+    "Course Number": "6000",
+    "Course Name": "Perspectives on Public Values",
+    "Tags": [
+      "PublicPolicy",
+      "Values"
+    ]
+  },
+  "PPPA 6001": {
+    "Department": "Public Policy and Public Admin",
+    "CRN": "31695",
+    "Subject": "PPPA",
+    "Course Number": "6001",
+    "Course Name": "Introduction to Public Service and Administration",
+    "Tags": [
+      "PublicPolicy",
+      "Service"
+    ]
+  },
+  "PPPA 6002": {
+    "Department": "Public Policy and Public Admin",
+    "CRN": "33987",
+    "Subject": "PPPA",
+    "Course Number": "6002",
+    "Course Name": "Research Methods and Applied Statistics",
+    "Tags": [
+      "PublicPolicy",
+      "Statistics"
+    ]
+  },
+  "PPPA 6003": {
+    "Department": "Public Policy and Public Admin",
+    "CRN": "31632",
+    "Subject": "PPPA",
+    "Course Number": "6003",
+    "Course Name": "Economics for Public Decision Making",
+    "Tags": [
+      "PublicPolicy",
+      "Economics"
+    ]
+  },
+  "PHYS 1011": {
+    "Department": "Physics",
+    "CRN": "31343",
+    "Subject": "PHYS",
+    "Course Number": "1011",
+    "Course Name": "General Physics I",
+    "Tags": [
+      "Physics",
+      "General"
+    ]
+  },
+  "PHYS 1012": {
+    "Department": "Physics",
+    "CRN": "31750",
+    "Subject": "PHYS",
+    "Course Number": "1012",
+    "Course Name": "General Physics II",
+    "Tags": [
+      "Physics",
+      "General"
+    ]
+  },
+  "PHYS 1021": {
+    "Department": "Physics",
+    "CRN": "33063",
+    "Subject": "PHYS",
+    "Course Number": "1021",
+    "Course Name": "University Physics I",
+    "Tags": [
+      "Physics",
+      "University"
+    ]
+  },
+  "PHYS 1022": {
+    "Department": "Physics",
+    "CRN": "30773",
+    "Subject": "PHYS",
+    "Course Number": "1022",
+    "Course Name": "University Physics II",
+    "Tags": [
+      "Physics",
+      "University"
+    ]
+  },
+  "PHYS 1026": {
+    "Department": "Physics",
+    "CRN": "31980",
+    "Subject": "PHYS",
+    "Course Number": "1026",
+    "Course Name": "University Physics II with Biological Applications",
+    "Tags": [
+      "Physics",
+      "BiologicalApplications"
+    ]
+  },
+  "PSC 1000": {
+    "Department": "Political Science",
+    "CRN": "36082",
+    "Subject": "PSC",
+    "Course Number": "1000",
+    "Course Name": "Black Political Thought",
+    "Tags": [
+      "PoliticalScience",
+      "BlackThought"
+    ]
+  },
+  "PSC 1001": {
+    "Department": "Political Science",
+    "CRN": "30362",
+    "Subject": "PSC",
+    "Course Number": "1001",
+    "Course Name": "Introduction to Comparative Politics",
+    "Tags": [
+      "PoliticalScience",
+      "ComparativePolitics"
+    ]
+  },
+  "PSC 1002": {
+    "Department": "Political Science",
+    "CRN": "34214",
+    "Subject": "PSC",
+    "Course Number": "1002",
+    "Course Name": "Introduction to American Politics and Government",
+    "Tags": [
+      "PoliticalScience",
+      "AmericanPolitics"
+    ]
+  },
+  "PSC 1003": {
+    "Department": "Political Science",
+    "CRN": "31349",
+    "Subject": "PSC",
+    "Course Number": "1003",
+    "Course Name": "Introduction to International Politics",
+    "Tags": [
+      "PoliticalScience",
+      "InternationalPolitics"
+    ]
+  },
+  "PSC 1011": {
+    "Department": "Political Science",
+    "CRN": "31469",
+    "Subject": "PSC",
+    "Course Number": "1011",
+    "Course Name": "Introduction to Politics I",
+    "Tags": [
+      "PoliticalScience",
+      "Introduction"
+    ]
+  },
+  "NRSC 8283": {
+    "Department": "Neuroscience",
+    "CRN": "33359",
+    "Subject": "NRSC",
+    "Course Number": "8283",
+    "Course Name": "Current Topics in Neuroscience",
+    "Tags": [
+      "Neuroscience",
+      "CurrentTopics"
+    ]
+  },
+  "NRSC 8998": {
+    "Department": "Neuroscience",
+    "CRN": "33365",
+    "Subject": "NRSC",
+    "Course Number": "8998",
+    "Course Name": "Advanced Reading and Research",
+    "Tags": [
+      "Neuroscience",
+      "Research"
+    ]
+  },
+  "NRSC 8999": {
+    "Department": "Neuroscience",
+    "CRN": "33366",
+    "Subject": "NRSC",
+    "Course Number": "8999",
+    "Course Name": "Dissertation research",
+    "Tags": [
+      "Neuroscience",
+      "Dissertation"
+    ]
+  },
+  "OT 8000": {
+    "Department": "Occupational Therapy",
+    "CRN": "35115",
+    "Subject": "OT",
+    "Course Number": "8000",
+    "Course Name": "Neuroscience for Rehabilitation",
+    "Tags": [
+      "OccupationalTherapy",
+      "Neuroscience"
+    ]
+  },
+  "OT 8101": {
+    "Department": "Occupational Therapy",
+    "CRN": "35116",
+    "Subject": "OT",
+    "Course Number": "8101",
+    "Course Name": "Human Occupation I",
+    "Tags": [
+      "OccupationalTherapy",
+      "HumanOccupation"
+    ]
+  },
+  "OT 8110": {
+    "Department": "Occupational Therapy",
+    "CRN": "35117",
+    "Subject": "OT",
+    "Course Number": "8110",
+    "Course Name": "Group Dynamics",
+    "Tags": [
+      "OccupationalTherapy",
+      "GroupDynamics"
+    ]
+  },
+  "OT 8202": {
+    "Department": "Occupational Therapy",
+    "CRN": "36128",
+    "Subject": "OT",
+    "Course Number": "8202",
+    "Course Name": "Occupational Therapy for Adult Rehabilitation",
+    "Tags": [
+      "OccupationalTherapy",
+      "AdultRehabilitation"
+    ]
+  },
+  "OT 8232": {
+    "Department": "Occupational Therapy",
+    "CRN": "36126",
+    "Subject": "OT",
+    "Course Number": "8232",
+    "Course Name": "Case Analysis II",
+    "Tags": [
+      "OccupationalTherapy",
+      "CaseAnalysis"
+    ]
+  },
+  "PERS 1001": {
+    "Department": "Persian",
+    "CRN": "31514",
+    "Subject": "PERS",
+    "Course Number": "1001",
+    "Course Name": "Beginning Persian I",
+    "Tags": [
+      "Language",
+      "Persian"
+    ]
+  },
+  "PERS 2001": {
+    "Department": "Persian",
+    "CRN": "31724",
+    "Subject": "PERS",
+    "Course Number": "2001",
+    "Course Name": "Intermediate Persian I",
+    "Tags": [
+      "Language",
+      "Persian"
+    ]
+  },
+  "PERS 3001": {
+    "Department": "Persian",
+    "CRN": "32389",
+    "Subject": "PERS",
+    "Course Number": "3001",
+    "Course Name": "Advanced Persian",
+    "Tags": [
+      "Language",
+      "Persian",
+      "Advanced"
+    ]
+  },
+  "NSC 1051": {
+    "Department": "Naval Science",
+    "CRN": "34825",
+    "Subject": "NSC",
+    "Course Number": "1051",
+    "Course Name": "Introduction to Naval Science",
+    "Tags": [
+      "NavalScience",
+      "Introduction"
+    ]
+  },
+  "NSC 2125": {
+    "Department": "Naval Science",
+    "CRN": "31172",
+    "Subject": "NSC",
+    "Course Number": "2151",
+    "Course Name": "Naval Operations and Seamanship",
+    "Tags": [
+      "Naval Science"
+    ]
+  },
+  "NSC 2175": {
+    "Department": "Naval Science",
+    "CRN": "30604",
+    "Subject": "NSC",
+    "Course Number": "2175",
+    "Course Name": "Leadership and Management",
+    "Tags": [
+      "Naval Science",
+      "Leadership"
+    ]
+  },
+  "NSC 2199": {
+    "Department": "Naval Science",
+    "CRN": "32937",
+    "Course Number": "2199",
+    "Course Name": "Naval Science Leadership Seminar",
+    "Tags": [
+      "Naval Science",
+      "Leadership"
+    ]
+  },
+  "MLS 2005": {
+    "Department": "Medical Laboratory Science",
+    "CRN": "35869",
+    "Subject": "MLS",
+    "Course Number": "2005",
+    "Course Name": "Plagues, Pandemics, and Epidemics",
+    "Tags": [
+      "Medical",
+      "Biology",
+      "History"
+    ]
+  },
+  "MLS2007W": {
+    "Department": "Medical Laboratory Science",
+    "CRN": "36549",
+    "Subject": "MLS",
+    "Course Number": "2007W",
+    "Course Name": "Microbes and Society",
+    "Tags": [
+      "Medical",
+      "Anthropology",
+      "History"
+    ]
+  },
+  "ORSC1109": {
+    "Department": "Organizational Sciences",
+    "CRN": "31027",
+    "Subject": "ORSC",
+    "Course Number": "1109",
+    "Course Name": "Introduction to Organizational Sciences",
+    "Tags": [
+      "Science",
+      "History"
+    ]
+  },
+  "ORSC2046W": {
+    "Department": "Organizational Sciences",
+    "CRN": "35908",
+    "Subject": "ORSC",
+    "Course Number": "2046W",
+    "Course Name": "Global Organizations",
+    "Tags": [
+      "Business",
+      "Science"
+    ]
+  },
+  "ORSC2123": {
+    "Department": "Organizational Sciences",
+    "CRN": "31889",
+    "Subject": "ORSC",
+    "Course Number": "2123",
+    "Course Name": "Negotiation and Conflict Resolution",
+    "Tags": [
+      "Philosophy",
+      "Science"
+    ]
+  },
+  "ORSC2544": {
+    "Department": "Organizational Sciences",
+    "CRN": "32735",
+    "Subject": "ORSC",
+    "Course Number": "2544",
+    "Course Name": "Industrial/Organizational Psychology",
+    "Tags": [
+      "Science",
+      "Medical"
+    ]
+  },
+  "MBAD6203": {
+    "Department": "Master of Business Administration",
+    "CRN": "35790",
+    "Subject": "MBAD",
+    "Course Number": "6203",
+    "Course Name": "Global MBA Career Roadmap",
+    "Tags": [
+      "Business",
+      "Business Management"
+    ]
+  },
+  "MBAD6205": {
+    "Department": "Master of Business Administration",
+    "CRN": "35061",
+    "Subject": "MBAD",
+    "Course Number": "6205",
+    "Course Name": "Business Essentials for Dynamic Markets",
+    "Tags": [
+      "Business",
+      "Economics"
+    ]
+  },
+  "MBA6211": {
+    "Department": "Master of Business Administration",
+    "CRN": "34444",
+    "Subject": "MBAD",
+    "Course Number": "6211",
+    "Course Name": "Financial Accounting",
+    "Tags": [
+      "Business",
+      "Finance",
+      "Accounting"
+    ]
+  },
+  "MBAD6206": {
+    "Department": "Master of Business Administration",
+    "CRN": "34929",
+    "Subject": "MBAD",
+    "Course Number": "6206",
+    "Course Name": "Professionalism as a Performative Art",
+    "Tags": [
+      "Business",
+      "Leadership",
+      "Communication"
+    ]
+  },
+  "MICR6236": {
+    "Department": "Microbio, Immun & Tropical Med",
+    "CRN": "31014",
+    "Subject": "MICR",
+    "Course Number": "6236",
+    "Course Name": "Fundamentals of Genomics",
+    "Tags": [
+      "Science",
+      "Chemistry",
+      "Biology"
+    ]
+  },
+  "MICR8214": {
+    "Department": "Microbio, Immun & Tropical Med",
+    "CRN": "33358",
+    "Subject": "MICR",
+    "Course Number": "8214",
+    "Course Name": "Microbiology and Immunology Seminar",
+    "Tags": [
+      "Science",
+      "Biology",
+      "Medical"
+    ]
+  },
+  "MICR8230": {
+    "Department": "Microbio, Immun & Tropical Med",
+    "CRN": "32060",
+    "Subject": "MICR",
+    "Course Number": "8230",
+    "Course Name": "Molecular and Cellular Immunology",
+    "Tags": [
+      "Science",
+      "Medical",
+      "Biology"
+    ]
+  },
+  "MAE1001": {
+    "Department": "Mechanical & Aerospace Engineering",
+    "CRN": "30889",
+    "Subject": "MAE",
+    "Course Number": "1001",
+    "Course Name": "Introduction to Mechanical and Aerospace Engineering",
+    "Tags": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Astronomy"
+    ]
+  },
+  "MAE1004": {
+    "Department": "Mechanical & Aerospace Engineering",
+    "CRN": "30830",
+    "Subject": "MAE",
+    "Course Number": "1004",
+    "Course Name": "Engineering Drawing and Computer Graphics",
+    "Tags": [
+      "Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  "MAE2117": {
+    "Department": "Mechanical & Aerospace Engineering",
+    "CRN": "32216",
+    "Subject": "MAE",
+    "Course Number": "2117",
+    "Course Name": "Engineering Computations",
+    "Tags": [
+      "Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  "MAE3119": {
+    "Department": "Mechanical & Aerospace Engineering",
+    "CRN": "36780",
+    "Subject": "MAE",
+    "Course Number": "3119",
+    "Course Name": "Electronics and Devices for Mechanical Engineers",
+    "Tags": [
+      "Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  "MAE3126": {
+    "Department": "Mechanical & Aerospace Engineering",
+    "CRN": "31707",
+    "Subject": "MAE",
+    "Course Number": "3126",
+    "Course Name": "Fluid Mechanics I",
+    "Tags": [
+      "Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  "MGT3201": {
+    "Department": "Management",
+    "CRN": "35020",
+    "Subject": "MGT",
+    "Course Number": "3201",
+    "Course Name": "Leadership in Action",
+    "Tags": [
+      "Business",
+      "Leadership"
+    ]
+  },
+  "MGT3300": {
+    "Department": "Management",
+    "CRN": "32795",
+    "Subject": "MGT",
+    "Course Number": "3300",
+    "Course Name": "Entrepreneurship",
+    "Tags": [
+      "Business",
+      "Leadership",
+      "Entrepreneurship"
+    ]
+  },
+  "MGT3301": {
+    "Department": "Management",
+    "CRN": "35142",
+    "Subject": "MGT",
+    "Course Number": "3301",
+    "Course Name": "Small Business Management",
+    "Tags": [
+      "Business",
+      "Leadership",
+      "Entrepreneurship"
+    ]
+  },
+  "MGT6281": {
+    "Department": "Management",
+    "CRN": "33887",
+    "Subject": "MGT",
+    "Course Number": "6281",
+    "Course Name": "Small Business Management",
+    "Tags": [
+      "Business",
+      "Leadership",
+      "Entrepreneurship"
+    ]
+  },
+  "MGT3305": {
+    "Department": "Management",
+    "CRN": "34145",
+    "Subject": "MGT",
+    "Course Number": "3305",
+    "Course Name": "Human Capital Sustainability",
+    "Tags": [
+      "Business",
+      "Entrepreneurship"
+    ]
+  },
+  "MATH1007": {
+    "Department": "Mathematics",
+    "CRN": "31043",
+    "Subject": "MATH",
+    "Course Number": "1007",
+    "Course Name": "Mathematics and Politics",
+    "Tags": [
+      "Math",
+      "Political Science"
+    ]
+  },
+  "MATH1009": {
+    "Department": "Mathematics",
+    "CRN": "30153",
+    "Subject": "MATH",
+    "Course Number": "1009",
+    "Course Name": "Mathematical Ideas I",
+    "Tags": [
+      "Math",
+      "Philosophy"
+    ]
+  },
+  "MATH1051": {
+    "Department": "Mathematics",
+    "CRN": "30160",
+    "Subject": "MATH",
+    "Course Number": "1051",
+    "Course Name": "Finite Mathematics for the Social and Management Sciences",
+    "Tags": [
+      "Math",
+      "Business"
+    ]
+  },
+  "MATH1220": {
+    "Department": "Mathematics",
+    "CRN": "34412",
+    "Subject": "MATH",
+    "Course Number": "1220",
+    "Course Name": "Calculus with Precalculus I",
+    "Tags": [
+      "Math",
+      "Calculus"
+    ]
+  },
+  "MATH1231": {
+    "Department": "Mathematics",
+    "CRN": "30155",
+    "Subject": "MATH",
+    "Course Number": "1231",
+    "Course Name": "Single-Variable Calculus I",
+    "Tags": [
+      "Math",
+      "Calculus"
+    ]
+  },
+  "LATN2001": {
+    "Department": "Latin",
+    "CRN": "37538",
+    "Subject": "LATN",
+    "Course Number": "2001",
+    "Course Name": "Intermediate Latin",
+    "Tags": [
+      "Languages",
+      "American"
+    ]
+  },
+  "KOR1001": {
+    "Department": "Korean",
+    "CRN": "30150",
+    "Subject": "KOR",
+    "Course Number": "1001",
+    "Course Name": "Beginning Korean I",
+    "Tags": [
+      "Languages",
+      "Asian"
+    ]
+  },
+  "KOR2003": {
+    "Department": "Korean",
+    "CRN": "30151",
+    "Subject": "KOR",
+    "Course Number": "2003",
+    "Course Name": "Intermediate Korean I",
+    "Tags": [
+      "Languages",
+      "Asian"
+    ]
+  },
+  "KOR3105": {
+    "Department": "Korean",
+    "CRN": "31098",
+    "Subject": "KOR",
+    "Course Number": "3105",
+    "Course Name": "Intermediate Korean III",
+    "Tags": [
+      "Languages",
+      "Asian"
+    ]
+  },
+  "KOR3111": {
+    "Department": "Korean",
+    "CRN": "37545",
+    "Subject": "KOR",
+    "Course Number": "3111",
+    "Course Name": "Korean Literature in Translation I",
+    "Tags": [
+      "Languages",
+      "Asian",
+      "English Literature"
+    ]
+  },
+  "KOR3123": {
+    "Department": "Korean",
+    "CRN": "35014",
+    "Subject": "KOR",
+    "Course Number": "3123",
+    "Course Name": "Introduction to Korean Linguistics",
+    "Tags": [
+      "Languages",
+      "Asian",
+      "Linguistics"
+    ]
+  },
+  "MKTG3142W": {
+    "Department": "Marketing",
+    "CRN": "34598",
+    "Subject": "MKTG",
+    "Course Number": "3142W",
+    "Course Name": "Consumer Behavior",
+    "Tags": [
+      "Business",
+      "Marketing",
+      "Psychology"
+    ]
+  },
+  "MKTG3143": {
+    "Department": "Marketing",
+    "CRN": "30597",
+    "Subject": "MKTG",
+    "Course Number": "3143",
+    "Course Name": "Marketing Research",
+    "Tags": [
+      "Business",
+      "Marketing",
+      "Statistics"
+    ]
+  },
+  "MKTG6243": {
+    "Department": "Marketing",
+    "CRN": "35079",
+    "Subject": "MKTG",
+    "Course Number": "6243",
+    "Course Name": "Marketing Research",
+    "Tags": [
+      "Business",
+      "Marketing",
+      "Statistics"
+    ]
+  },
+  "MKTG4148": {
+    "Department": "Marketing",
+    "CRN": "33861",
+    "Subject": "MKTG",
+    "Course Number": "4148",
+    "Course Name": "Advertising and Marketing Communications",
+    "Tags": [
+      "Business",
+      "Marketing",
+      "Communication"
+    ]
+  },
+  "MKTG4150": {
+    "Department": "Marketing",
+    "CRN": "30977",
+    "Subject": "MKTG",
+    "Course Number": "4150",
+    "Course Name": "Salesmanship and Sales Management",
+    "Tags": [
+      "Business",
+      "Marketing",
+      "Leadership"
+    ]
+  },
+  "ITAL1001": {
+    "Department": "Italian",
+    "CRN": "31990",
+    "Subject": "ITAL",
+    "Course Number": "1001",
+    "Course Name": "Basic Italian I",
+    "Tags": [
+      "Languages",
+      "European"
+    ]
+  },
+  "ITAL1003": {
+    "Department": "Italian",
+    "CRN": "36894",
+    "Subject": "ITAL",
+    "Course Number": "1003",
+    "Course Name": "Intermediate Italian I",
+    "Tags": [
+      "Languages",
+      "European"
+    ]
+  },
+  "ITAL2005": {
+    "Department": "Italian",
+    "CRN": "33423",
+    "Subject": "ITAL",
+    "Course Number": "2005",
+    "Course Name": "Language, Culture, and Society I",
+    "Tags": [
+      "Languages",
+      "European",
+      "Sociology"
+    ]
+  },
+  "ITAL2600": {
+    "Department": "Italian",
+    "CRN": "36844",
+    "Subject": "ITAL",
+    "Course Number": "2600",
+    "Course Name": "Italian Foodways",
+    "Tags": [
+      "Languages",
+      "European",
+      "Cultural Studies"
+    ]
+  },
+  "ITAL3600": {
+    "Department": "Italian",
+    "CRN": "37851",
+    "Subject": "ITAL",
+    "Course Number": "3600",
+    "Course Name": "Italian Crime Fiction & Film",
+    "Tags": [
+      "Languages",
+      "European",
+      "Film Studies",
+      "English Literature"
+    ]
+  },
+  "JAPN1001": {
+    "Department": "Japanese",
+    "CRN": "34147",
+    "Subject": "JAPN",
+    "Course Number": "1001",
+    "Course Name": "Beginning Japanese I",
+    "Tags": [
+      "Languages",
+      "Asian"
+    ]
+  },
+  "JAPN2003": {
+    "Department": "Japanese",
+    "CRN": "30702",
+    "Subject": "JAPN",
+    "Course Number": "2003",
+    "Course Name": "Intermediate Japanese I",
+    "Tags": [
+      "Languages",
+      "Asian"
+    ]
+  },
+  "JAPN3105": {
+    "Department": "Japanese",
+    "CRN": "31329",
+    "Subject": "JAPN",
+    "Course Number": "3105",
+    "Course Name": "Intermediate Japanese III",
+    "Tags": [
+      "Languages",
+      "Asian"
+    ]
+  },
+  "JAPN3111": {
+    "Department": "Japanese",
+    "CRN": "30149",
+    "Subject": "JAPN",
+    "Course Number": "3111",
+    "Course Name": "Japanese Literature in Translation I",
+    "Tags": [
+      "Languages",
+      "Asian",
+      "English Literature"
+    ]
+  },
+  "JAPN3123": {
+    "Department": "Japanese",
+    "CRN": "37798",
+    "Subject": "JAPN",
+    "Course Number": "3123",
+    "Course Name": "Introduction to Japanese Linguistics I",
+    "Tags": [
+      "Languages",
+      "Asian",
+      "Linguistics"
+    ]
+  },
+  "ISTM3119": {
+    "Department": "InfSystemsTechnologyManagement",
+    "CRN": "31153",
+    "Subject": "ISTM",
+    "Course Number": "3119",
+    "Course Name": "Introduction to Programming",
+    "Tags": [
+      "Computer Science",
+      "Software Engineering"
+    ]
+  },
+  "ISTM4120": {
+    "Department": "InfSystemsTechnologyManagement",
+    "CRN": "31156",
+    "Subject": "ISTM",
+    "Course Number": "4120",
+    "Course Name": "Business Systems Development",
+    "Tags": [
+      "Computer Science",
+      "Business",
+      "Software Engineering"
+    ]
+  },
+  "ISTM4121": {
+    "Department": "InfSystemsTechnologyManagement",
+    "CRN": "31265",
+    "Subject": "ISTM",
+    "Course Number": "4121",
+    "Course Name": "Database Design & Application",
+    "Tags": [
+      "Computer Science",
+      "Database Systems"
+    ]
+  },
+  "ISTM4205": {
+    "Department": "InfSystemsTechnologyManagement",
+    "CRN": "34438",
+    "Subject": "ISTM",
+    "Course Number": "4205",
+    "Course Name": "Web Applications Development",
+    "Tags": [
+      "Computer Science",
+      "Web Development",
+      "Software Engineering"
+    ]
+  },
+  "ISTM4209": {
+    "Department": "InfSystemsTechnologyManagement",
+    "CRN": "34439",
+    "Subject": "ISTM",
+    "Course Number": "4209",
+    "Course Name": "Foundations of Web Analytics",
+    "Tags": [
+      "Computer Science",
+      "Web Development",
+      "Statistics"
+    ]
+  },
+  "IBUS3001": {
+    "Department": "International Business",
+    "CRN": "33886",
+    "Subject": "IBUS",
+    "Course Number": "3001",
+    "Course Name": "Introduction to International Business",
+    "Tags": [
+      "Business",
+      "International Business",
+      "Global Politics"
+    ]
+  },
+  "IBUS3101": {
+    "Department": "International Business",
+    "CRN": "36058",
+    "Subject": "IBUS",
+    "Course Number": "3101",
+    "Course Name": "Global Financial Environment",
+    "Tags": [
+      "Business",
+      "International Business",
+      "Finance"
+    ]
+  },
+  "IBUS3201": {
+    "Department": "International Business",
+    "CRN": "32222",
+    "Subject": "IBUS",
+    "Course Number": "3201",
+    "Course Name": "International Marketing Management",
+    "Tags": [
+      "Business",
+      "International Business",
+      "Marketing"
+    ]
+  },
+  "IBUS3301": {
+    "Department": "International Business",
+    "CRN": "31763",
+    "Subject": "IBUS",
+    "Course Number": "3301",
+    "Course Name": "International Business Finance",
+    "Tags": [
+      "Business",
+      "International Business",
+      "Finance"
+    ]
+  },
+  "IBUS4202": {
+    "Department": "International Business",
+    "CRN": "37741",
+    "Subject": "IBUS",
+    "Course Number": "4202",
+    "Course Name": "Regional Strategy for Multinationals",
+    "Tags": [
+      "Business",
+      "International Business",
+      "Leadership"
+    ]
+  },
+  "IDIS8358": {
+    "Department": "Interdisciplinary Courses",
+    "CRN": "31598",
+    "Subject": "IDIS",
+    "Course Number": "8358",
+    "Course Name": "Rotation in Health Policy",
+    "Tags": [
+      "Medical",
+      "Public Policy",
+      "Public Administration"
+    ]
+  }
+}
